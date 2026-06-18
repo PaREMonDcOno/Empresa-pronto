@@ -41,7 +41,7 @@
                         Tecnologia que transforma negócios
                     </div>
 
-                    <h1 id="home-title">Bem-vindo à <span>Bool Technology</span></h1>
+                    <h1 id="home-title">Bem-vindo a <span>Bool Technology</span></h1>
                     <p>
                         Lógica, criatividade e tecnologia trabalhando juntas para transformar ideias
                         em soluções digitais reais, escaláveis e eficientes.
@@ -224,7 +224,7 @@
 
                 <div class="services-grid">
                     <article class="service-card">
-                        <h3>Desenvolvimento de Sites e Sistemas Web</h3>
+                        <h3>Desenvolvimento de sites e sistemas web</h3>
                         <p>
                             Criação de sites institucionais, landing pages e sistemas web sob medida, focados em
                             performance, responsividade e experiência do usuário.
@@ -232,7 +232,7 @@
                     </article>
 
                     <article class="service-card">
-                        <h3>Aplicações Personalizadas & Integrações</h3>
+                        <h3>Aplicações personalizadas & integrações</h3>
                         <p>
                             Desenvolvimento de aplicações customizadas, automações e integrações entre sistemas,
                             APIs, bancos de dados e ferramentas externas.
@@ -240,7 +240,7 @@
                     </article>
 
                     <article class="service-card">
-                        <h3>Consultoria em Transformação Digital</h3>
+                        <h3>Consultoria em transformação digital</h3>
                         <p>
                             Análise de processos, diagnóstico tecnológico e definição de soluções digitais com visão
                             estratégica e prática.
